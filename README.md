@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techdoc74
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning mobil app development
 - 💞️ I’m looking to collaborate on software development ideas 
 - 📫 How to reach me Whatsapp 09132260823
 - 😄 Pronouns: ...
